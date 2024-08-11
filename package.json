@@ -1,5 +1,5 @@
 {
-  "name": "my-svelte-project",
+  "name": "svelte-catdog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
